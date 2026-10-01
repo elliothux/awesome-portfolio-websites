@@ -1,14 +1,10 @@
 # Awesome Personal Websites [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Arif-un/awesome-portfolio-websites/)
 
-
 <img src="https://raw.githubusercontent.com/Arif-un/awesome-portfolio-websites/031d3f14c3020bb1ae433638ca698ef4e54eab2e/img/awesome-portfolio-banner.svg" alt="awesome-designer-developers-portfolio-websites-banner">
-
 
  A curated list of Awesome creative personal websites from awesome designers and developers 😎.
 
-
 ## 👩‍💻 Developers
-
 
 - <img src="https://www.worldometers.info/img/flags/us-flag.gif" title="United States" height="14px" width="25px" style="border-radius:3px"> [Robby Leonardi](http://rleonardi.com)
 - <img src="https://www.worldometers.info/img/flags/fr-flag.gif" title="France" height="14px" width="25px" style="border-radius:3px"> [Bruno Simon](https://bruno-simon.com/)
@@ -92,9 +88,9 @@
 - <img src="https://www.worldometers.info/img/flags/ch-flag.gif" title="China" height="14px" width="25px" style="border-radius:3px"> [Nooc](https://nooc.me/)
 - <img src="https://www.worldometers.info/img/flags/ir-flag.gif" title="Iran" height="14px" width="25px" style="border-radius:3px"> [Emad Malekossadat](https://www.creativeed.dev/)
 
+- <img src="https://www.worldometers.info/img/flags/ch-flag.gif" title="China" height="14px" width="25px" style="border-radius:3px"> [Elliot Hu](https://elliothu.me/)
 
 ## 🎨 Designers
-
 
 - <img src="https://www.worldometers.info/img/flags/th-flag.gif" title="Thailand" height="14px" width="25px" style="border-radius:3px"> ~~~~[Nadia](https://nadiaux.design/)~~~~
 - <img src="https://www.worldometers.info/img/flags/nl-flag.gif" title="Netherlands" height="14px" width="25px" style="border-radius:3px"> [Daniel Korpai](https://danielkorpai.com/)
@@ -107,4 +103,3 @@
 - <img src="https://www.worldometers.info/img/flags/fr-flag.gif" title="France" height="14px" width="25px" style="border-radius:3px"> ~~~~[Yul Moreau](https://y78.fr/)~~~~
 - <img src="https://www.worldometers.info/img/flags/us-flag.gif" title="United States" height="14px" width="25px" style="border-radius:3px"> [Alex Coven](https://www.alexcoven.com/)
 - <img src="https://www.worldometers.info/img/flags/us-flag.gif" title="United States" height="14px" width="25px" style="border-radius:3px"> [Brad Frost](https://bradfrost.com/)
-- <img src="https://www.worldometers.info/img/flags/ch-flag.gif" title="China" height="14px" width="25px" style="border-radius:3px"> [Elliot Hu](https://elliothu.me/)
